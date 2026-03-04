@@ -1,1 +1,21 @@
+-- Objective:
+-- Use the insights from the demographic analysis to inform discussions about representation, diversity progress, and industry trends within the Academy Awards. This step translates historical data findings into meaningful recommendations that can support transparency, equity converstations, and long-term diversity awareness in major award institutions.
 
+-- Key Objective from Analysis:
+-- * Representation has shifted gradually over decades, but early decades were heavily dominated by a narrow demographic group, particularly in major acting and directing categories.
+-- * Gender representation differs significantly by award category, with Best Director historically showing far lower female representation compared to acting categories.
+-- * Racial and ethnic diversity has increased in more recent decades, but growth appears incremental rather than rapid.
+-- * Average age at award varies by category, with some awards recognizing winners at older average ages than others.
+-- * Demographic breakthroughs tend to cluster in more recent decades, suggesting industry change but not uniform progress across all categories.
+
+-- 📌 Recommendations
+-- Increase Transparency in Reporting
+-- * Encourage consistent public reporting of demographic trends over time to promote accountability and data-driven conversations around representation.
+-- Support Inclusive Nomination Pipelines
+-- * Strengthen mentorship and development initiatives that support underrepresented groups in film, especially in directing and production roles.
+-- Monitor Category-Specific Gaps
+-- * Focus on categories with historically limited diversity (such as directing) and assess structural barriers within those pathways.
+-- Conduct Deeper Intersectional Analysis
+-- * Expand the analysis to explore intersections of race, gender, and age to better understand layered representation patterns.
+-- Benchmark Progress by Decade
+-- * Establish decade-over-decade diversity benchmarks to measure meaningful improvement rather than isolated milestone wins.
