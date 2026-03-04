@@ -1,5 +1,5 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/ssaagastume11/oscars-demographics-analysis)
-![Last Commit](https://img.shields.io/github/last-commit/ssaagastume11/oscars-demographics-analysis)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/ssagastume11/oscars-demographics-analysis)
+![Last Commit](https://img.shields.io/github/last-commit/ssagastume11/oscars-demographics-analysis)
 
 # 🏆 Oscars Demographics Analysis (1928–Present)
 
